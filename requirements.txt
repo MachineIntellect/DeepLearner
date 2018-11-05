@@ -2,3 +2,4 @@ matplotlib
 awscli
 pillow
 pandas
+kaggle
