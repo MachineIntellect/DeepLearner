@@ -3,3 +3,4 @@ awscli
 pillow
 pandas
 kaggle
+sqlalchemy
