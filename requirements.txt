@@ -4,3 +4,4 @@ pillow
 pandas
 kaggle
 sqlalchemy
+numpy
