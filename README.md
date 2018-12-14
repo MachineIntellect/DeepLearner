@@ -1,5 +1,5 @@
 # DeepLearner
-Learn python and deep learning from scratch.
+Learn Python and Deep Learning from scratch.
 
 超级零基础，真正零基础！
 
